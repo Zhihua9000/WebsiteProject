@@ -1,0 +1,19 @@
+.homebg{
+    background-image: url(../assets/img/hobbies_bg.png);
+    background-position: top;
+}
+.subheader{
+    font-family: 'Times New Roman', Times, serif;
+    font: bold;
+    font-size: 18px;
+    color: lightblue;
+}
+.hobbieslistheading{
+    font-family: Arial, Helvetica, sans-serif;
+    font: italic;
+    font-size: 16px;
+    color: white;
+}
+.p{
+    font-size: large;
+}
